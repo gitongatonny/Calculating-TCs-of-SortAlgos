@@ -1,6 +1,6 @@
-# Calculating and Graphically Analysing the Time Complexities of 4 Sorting Algorithms using Python.
+# Calculating and Graphically Analysing the Time Complexities of 4 Sorting Algorithms using Python
 
-This Python program was written in Jupyter Notebook. It was a group assignment issued for the unit: Design and Analysis of Algorithms.
+This Python program was written in Jupyter Notebook. It was a group project issued for the unit: Design and Analysis of Algorithms.
 
 It includes the following sorting algorithms.
 
